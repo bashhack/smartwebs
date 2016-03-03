@@ -1,9 +1,9 @@
 
-# smartwebs/smartwebs
+# bashhack/smartwebs
 Smartwebs website, library and application server
 
 # Development
-#### Git
+### Git
 * git clone git@github.com:bashhack/smartwebs.git
 
 #### Further Reading:
