@@ -1,5 +1,5 @@
 
-# bashhack/smartwebs
+# smartwebs/smartwebs
 Smartwebs website, library and application server
 
 # Development
